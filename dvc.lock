@@ -31,8 +31,8 @@ stages:
       nfiles: 1
     - path: .\src\models\train_model.py
       hash: md5
-      md5: 5af92edffd22804f29af18c1efe94bbb
-      size: 1362
+      md5: 4a536fdb93346e02a0199d889f08854d
+      size: 2724
     params:
       params.yaml:
         train_model.max_depth: 6
